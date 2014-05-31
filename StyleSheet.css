@@ -1,0 +1,45 @@
+body {
+	background-color: #FFFFFF;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-style: italic;
+	margin: 50px;
+}
+p {
+	color: black;
+	
+}
+.panel {
+	
+}
+
+#nav {
+	width: 100%;
+	float: left;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none;
+	background-color: #f2f2f2;
+
+}
+#nav li {
+	/*display: inline;*/
+	float: left;
+}
+	
+#nav li a{
+	padding: 65px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #069;
+	
+}
+#nav li a:hover {
+	color: #c00;
+	background-color: #fff;
+}
+h1 {
+	color: black;
+}
+img {
+	height: 300px;
+	width: 250px;
